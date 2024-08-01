@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+  .rounded-custom-first {
+    border-top-left-radius: 1rem !important;
+    border-top-right-radius: 1rem !important;
+    border-bottom-left-radius: 0 !important;
+  }
+
+  .rounded-custom-second {
+    border-top-right-radius: 0 !important;
+    border-bottom-left-radius: 1rem !important;
+  }
+}
+
+.colorBg {
+  background-color: var(--cor2);
+}

@@ -1,0 +1,21 @@
+:root{
+  --cor0: #F24949;
+  --cor1: #F99595;
+  --cor2: #F74A4A;
+  --cor3: #C43B3B;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+.colorTitle {
+  color: var(--cor0);
+}
+
+.colorText {
+  color: white;
+}
